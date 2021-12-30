@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Solidity
+
+👯 I’m looking to collaborate on Web3 projects
+
+📫 Reach me on Discord at acelasi#4508
+
 <!--
 **rcstanciu/rcstanciu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
