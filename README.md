@@ -1,6 +1,6 @@
-### Hi there 👋
+I'm Rares!
 
-📫 Reach out to me on Discord at *rcstanciu*
+Reach out on Discord at *rcstanciu*
 
 <!--
 **rcstanciu/rcstanciu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
